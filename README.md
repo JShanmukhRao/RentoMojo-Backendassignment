@@ -7,6 +7,8 @@ then go to phonebookrento/client/ and run npm install & npm start
 
 then in phonebookrento folder run npm install & nodemon app.js
 
+on Browser http://localhost:3000/
+
 The project is developed using MERN stack and deployed in Heroku 
 
 First you have to create an account then Login for security reasons and for endpoints security I used JWT(JSON Web Token)
